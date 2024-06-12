@@ -5,4 +5,4 @@ Curriculum Vitae
 
 ## Proyectos 
 
--[LandingPage de tipo Portafolio-CV](https://github.com/LucasAvel/Proyecto-Curriculum)
+- [LandingPage de tipo Portafolio-CV](https://lucasavel.github.io/Proyecto-Curriculum/)
