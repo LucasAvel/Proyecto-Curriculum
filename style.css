@@ -658,7 +658,7 @@ progress::-moz-progress-bar {
 }
 
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 828px) {
   .contact-cards {
     display: grid;
     grid-template-columns: repeat(2, 48%);
