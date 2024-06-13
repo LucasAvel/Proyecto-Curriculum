@@ -696,7 +696,7 @@ progress::-moz-progress-bar {
   }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
   .about {
     display: grid;
     grid-template-columns: repeat(3, 30%);
